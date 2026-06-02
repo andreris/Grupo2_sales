@@ -38,7 +38,7 @@ with col1:
     pub_por_anio = df["Year"].value_counts().sort_index()
     years_list = [str(y) for y in pub_por_anio.index.tolist()]
     counts_list = pub_por_anio.values.tolist()
-    bar_colors = ["#185FA5" if int(y) >= 2020 else "#1847A5" for y in years_list] 
+    bar_colors = ["#FF5F00" if int(y) >= 2020 else "#1847A5" for y in years_list] 
 
     option_anio = {
         "tooltip": {"trigger": "axis", "formatter": "{b}: {c} publicaciones"},
