@@ -59,7 +59,7 @@ with col2:
     st.write("""
     En este gráfico podemos observar la evolución temporal del interés científico en la predicción de ventas utilizando Inteligencia Artificial y Business Intelligence.
     **Información:**
-    Este gráfico muestra la cantidad de artículos científicos publicados por año relacionados con la predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos. Permite identificar los años con mayor producción científica sobre el tema.
+    * Este gráfico muestra la cantidad de artículos científicos publicados por año relacionados con la predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos. Permite identificar los años con mayor producción científica sobre el tema.
     **Puntos clave:**
     * **Tendencia:** Se evidencia un crecimiento significativo en los últimos años (barras claras), lo que demuestra que es un área de investigación en pleno auge.
     * **Adopción tecnológica:** El aumento reciente coincide con la democratización de los algoritmos de Machine Learning y la mayor disponibilidad de datos históricos de ventas en las empresas.
