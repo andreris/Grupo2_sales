@@ -60,6 +60,6 @@ with col2:
     Este gráfico muestra la cantidad de artículos científicos publicados por año relacionados con la predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos. Permite identificar los años con mayor producción científica sobre el tema.
     
     **Puntos clave/Insights:**
-    * **Tendencia:** Se evidencia un crecimiento significativo en los últimos años, en especial desde el año 2020 del uso y conocimiento sobre la ia, lo que demuestra que es un área de investigación en pleno auge.
+    * **Tendencia:** Se observa un crecimiento en los últimos años, en especial desde el año 2020 del uso y conocimiento sobre la ia, lo que demuestra que es un área que esta en crecimiento.
     * **Tecnología:** El aumento del uso de machine learning y la adopción de la ia en las empresas se ve claro, más aún en el año 2025.
     """)
