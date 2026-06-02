@@ -54,9 +54,9 @@ with col1:
 with col2:
     st.subheader("💡 Interpretación")
     st.write("""
-    Esta gráfica lista las revistas (Journals) y conferencias que más publican sobre la intersección entre ventas e inteligencia artificial.
+    Este gráfico muestra las 10 fuentes científicas con mayor cantidad de publicaciones dentro del dataset de Scopus. Su finalidad es identificar las revistas o conferencias donde se concentra la investigación sobre predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos.
     
-    **Puntos clave:**
+    **Puntos clave/Insights:**
     * **Enfoque de las revistas:** Nos permite ver si la investigación se publica más en revistas de informática/tecnología (enfocadas en el algoritmo) o en revistas de negocios/management (enfocadas en la estrategia y toma de decisiones).
     * **Vigilancia Tecnológica:** Para futuros estudios de predicción de ventas, estas son las principales fuentes bibliográficas que se deben consultar para mantenerse actualizado.
     """)

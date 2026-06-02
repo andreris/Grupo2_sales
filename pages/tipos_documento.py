@@ -53,9 +53,9 @@ with col1:
 with col2:
     st.subheader("💡 Interpretación")
     st.write("""
-    Este gráfico de dona detalla los formatos en los que se publica la investigación relacionada a nuestro tema.
+    Este gráfico de torta muestra la distribución de las publicaciones científicas por tipo de documento. Permite visualizar qué tipos de documentos (por ejemplo, artículos, revisiones, ponencias de congresos) son más frecuentes en el dataset.
     
-    **Puntos clave:**
-    * **Artículos (Articles) vs. Conferencias (Conference Papers):** Una alta proporción de artículos de revistas indica que el campo tiene investigaciones maduras y validadas, mientras que una alta tasa de "Conference Papers" indicaría que es un campo de desarrollo rápido y emergente (típico en IA).
+    **Puntos clave/Insights:**
+    * **Artículos vs. Conferencias :** Una alta proporción de artículos de revistas indica que el campo tiene investigaciones maduras y validadas, mientras que una alta tasa de "Conference Papers" indicaría que es un campo de desarrollo rápido y emergente (típico en IA).
     * **Revisiones (Reviews):** Los documentos de revisión son excelentes puntos de partida, ya que consolidan el conocimiento previo sobre técnicas de predicción.
     """)

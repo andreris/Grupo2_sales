@@ -54,9 +54,9 @@ with col1:
 with col2:
     st.subheader("💡 Interpretación")
     st.write("""
-    Aquí visualizamos los trabajos con mayor impacto en la comunidad científica según su número de citas.
+    Este gráfico muestra los 10 artículos con mayor cantidad de citas dentro del dataset de Scopus. Su objetivo es identificar las investigaciones con mayor impacto relacionadas con la predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos.
     
-    **Puntos clave:**
+    **Puntos clave/Insights:**
     * **Fundamentos del campo:** Los artículos en la parte superior representan la literatura base. Las metodologías presentadas en estos papers (ya sean redes neuronales, series temporales o minería de datos) son probablemente el estándar de la industria.
     * **Relevancia:** Un alto número de citas valida la efectividad de las técnicas de Machine Learning y BI propuestas por estos autores para la predicción de ventas.
     """)
