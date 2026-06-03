@@ -53,10 +53,9 @@ with col1:
 
 with col2:
     st.subheader("💡 Interpretación")
-    st.write("""
-    Este gráfico muestra las 10 fuentes científicas con mayor cantidad de publicaciones dentro del dataset de Scopus. Su finalidad es identificar las revistas o conferencias donde se concentra la investigación sobre predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos.
-    
-    **Puntos clave/Insights:**
-    * **Enfoque de las revistas:** Nos permite ver si la investigación se publica más en revistas de informática/tecnología (enfocadas en el algoritmo) o en revistas de negocios/management (enfocadas en la estrategia y toma de decisiones).
-    * **Vigilancia Tecnológica:** Para futuros estudios de predicción de ventas, estas son las principales fuentes bibliográficas que se deben consultar para mantenerse actualizado.
-    """)
+    st.write("""Este gráfico detalla el top 10 de los medios de publicación científica que concentran los estudios sobre predicción de ventas. Al observar la distribución, podemos extraer tres conclusiones fundamentales:
+
+* **Dominio netamente tecnológico:** La investigación no se está publicando en revistas tradicionales de marketing o ventas, sino que está dominada casi por completo por las ciencias de la computación (*Computer Science*) y las ingenierías. Esto confirma que mejorar la precisión de las ventas es hoy, fundamentalmente, un desafío de arquitectura de datos e inteligencia artificial.
+* **Concentración en el liderazgo:** Existe una clara preferencia por dos medios principales para publicar sobre este tema: *Communications in Computer and Information Science* y *Lecture Notes in Computer Science*, ambas destacándose del resto con 3 publicaciones cada una. 
+* **Velocidad de innovación:** La gran presencia de actas de conferencias (*Proceedings*, *Conferences*) indica que este es un campo de estudio muy dinámico. En la minería de datos y la IA, los investigadores prefieren presentar sus nuevos algoritmos predictivos en conferencias para compartir los resultados más rápido.
+""")
