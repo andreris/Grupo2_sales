@@ -53,8 +53,10 @@ with col1:
 
 with col2:
     st.subheader("💡 Interpretación")
-    st.write("""Este gráfico nos muestra la distribucion de las fuentes cientificas es decir muestra en qué revistas científicas, congresos o conferencias académicas se están publicando los artículos. Al observar el grafico podemos concluir:
+    st.write("""  
+Este gráfico nos muestra la distribucion de las fuentes cientificas es decir muestra en qué revistas científicas, congresos o conferencias académicas se están publicando los artículos. Al observar el grafico podemos concluir:
 
+**Puntos clave/Insights:**
 * **Dominio netamente tecnológico:** La investigación no se está publicando en revistas tradicionales de marketing o ventas, sino que está dominada casi por completo por las ciencias de la computación y las ingenierías, esto confirma que mejorar la precisión de las ventas es hoy, fundamentalmente, un desafío de arquitectura de datos e inteligencia artificial.
 * **Concentración en el liderazgo:** Existe una clara preferencia por dos medios principales para publicar sobre este tema: *Communications in Computer and Information Science* y *Lecture Notes in Computer Science*, ambas destacándose del resto con 3 publicaciones cada una. 
 * **Velocidad de innovación:** La gran presencia de actas de conferencias (*Proceedings*, *Conferences*) indica que este es un campo de estudio muy dinámico. En este caso la minería de datos y la IA, los investigadores prefieren compartir y presentar sus nuevos algoritmos predictivos en conferencias para compartir los resultados más rápido.
