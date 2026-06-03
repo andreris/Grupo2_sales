@@ -53,10 +53,10 @@ with col1:
 
 with col2:
     st.subheader("💡 Interpretación")
-    st.write("""
-    Este gráfico muestra los 10 artículos con mayor cantidad de citas dentro del dataset de Scopus. Su objetivo es identificar las investigaciones con mayor impacto relacionadas con la predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos.
-    
-    **Puntos clave/Insights:**
-    * **Fundamentos del campo:** Los artículos en la parte superior representan la literatura base. Las metodologías presentadas en estos papers (ya sean redes neuronales, series temporales o minería de datos) son probablemente el estándar de la industria.
-    * **Relevancia:** Un alto número de citas valida la efectividad de las técnicas de Machine Learning y BI propuestas por estos autores para la predicción de ventas.
-    """)
+    st.write("""En este gráfico podemos ver cuáles son los artículos de nuestro dataset que más veces han sido citados. Básicamente, nos ayuda a entender qué investigaciones son las más importantes o tomadas como referencia en el tema de predicción de ventas.
+
+**Puntos clave/Insights:**
+* **Los artículos más influyentes:** Vemos que hay un artículo que resalta muchísimo sobre el resto. Esto normalmente pasa porque propone un modelo o una metodología que se vuelve la base para que otros hagan sus propios experimentos.
+* **Por qué importan las citas:** En la investigación, si te citan mucho es porque tu trabajo sirve. Que estos artículos tengan tantas menciones nos dice que sus modelos de machine learning realmente dan buenos resultados y la comunidad confía en ellos.
+* **Un estudio clave:** La gran diferencia de citas entre el primer lugar y los demás nos demuestra que ese estudio en particular marcó un antes y un después, y es casi una lectura obligatoria si queremos entender cómo predecir ventas con IA.
+""")
