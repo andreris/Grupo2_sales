@@ -53,9 +53,9 @@ with col1:
 with col2:
     st.subheader("💡 Interpretación")
     st.write("""
-    Este gráfico de torta muestra la distribución de las publicaciones científicas por tipo de documento. Permite visualizar qué tipos de documentos (por ejemplo, artículos, revisiones, ponencias de congresos) son más frecuentes en el dataset.
-    
+    Este gráfico de torta muestra que tipo de formato eligen los investigadores para publicar sus articulos, nos permite visualizar qué tipos de documentos (artículos, revisiones, ponencias de congresos) son más frecuentes en el dataset.
+
     **Puntos clave/Insights:**
-    * **Artículos vs. Conferencias :** Una alta proporción de artículos de revistas indica que el campo tiene investigaciones maduras y validadas, mientras que una alta tasa de "Conference Papers" indicaría que es un campo de desarrollo rápido y emergente (típico en IA).
-    * **Revisiones (Reviews):** Los documentos de revisión son excelentes puntos de partida, ya que consolidan el conocimiento previo sobre técnicas de predicción.
+    * **Innovación acelerada: La mayoría de las investigaciones se presentan en conferencias esto porque en el campo de la Ciencia de Datos e Inteligencia Artificial, las tecnologías evolucionan tan rápido que los autores prefieren presentar sus resultados inmediatamente en congresos internacionales.
+    * **Los Artículos de Revista Científica:** Publicar en una revista científica tradicional (lo que se clasifica estrictamente como Article) es un proceso muy largo y riguroso. Puede tomar entre 1 y 2 años desde que se envía el texto hasta que se publica. Para que un modelo predictivo sea aceptado aquí, tiene que estar increíblemente pulido, probado en muchísimos escenarios distintos
     """)
