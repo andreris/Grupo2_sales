@@ -56,6 +56,6 @@ with col2:
     Este gráfico de torta muestra que tipo de formato eligen los investigadores para publicar sus articulos, nos permite visualizar qué tipos de documentos (artículos, revisiones, ponencias de congresos) son más frecuentes en el dataset.
 
     **Puntos clave/Insights:**
-    * **Innovación acelerada: La mayoría de las investigaciones se presentan en conferencias esto porque en el campo de la Ciencia de Datos e Inteligencia Artificial, las tecnologías evolucionan tan rápido que los autores prefieren presentar sus resultados inmediatamente en congresos internacionales.
+    * **Innovación acelerada:** La mayoría de las investigaciones se presentan en conferencias esto porque en el campo de la Ciencia de Datos e Inteligencia Artificial, las tecnologías evolucionan tan rápido que los autores prefieren presentar sus resultados inmediatamente en congresos internacionales.
     * **Los Artículos de Revista Científica:** Publicar en una revista científica tradicional (lo que se clasifica estrictamente como Article) es un proceso muy largo y riguroso. Puede tomar entre 1 y 2 años desde que se envía el texto hasta que se publica. Para que un modelo predictivo sea aceptado aquí, tiene que estar increíblemente pulido, probado en muchísimos escenarios distintos
     """)
