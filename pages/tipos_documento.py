@@ -57,6 +57,6 @@ with col2:
 
     **Puntos clave/Insights:**
     * **Innovación acelerada:** La mayoría de las investigaciones se presentan en conferencias esto porque en el campo de la Ciencia de Datos e Inteligencia Artificial, las tecnologías evolucionan tan rápido que los autores prefieren presentar sus resultados inmediatamente en congresos internacionales. 
-    * **Los Artículos de Revista Científica:** Publicar en una revista científica tradicional (lo que se clasifica como Article) es un proceso muy largo y riguroso. Puede tomar entre 1 y 2 años desde que se envía el texto hasta que se publica. Para que un modelo predictivo sea aceptado aquí, tiene que estar increíblemente pulido, probado en muchísimos escenarios distintos.
+    * **Los artículos de revista científica:** Publicar en una revista científica tradicional (lo que se clasifica como Article) es un proceso muy largo y riguroso. Puede tomar entre 1 y 2 años desde que se envía el texto hasta que se publica. Para que un modelo predictivo sea aceptado aquí, tiene que estar increíblemente pulido, probado en muchísimos escenarios distintos.
     * **Los conference paper:** Observamos que entre los años 2023 y 2026 hay un total de 13 conference papers y que tambien ocupa gran parte del porcentaje. Con esto vemos que estos articulos destinados a conferencias o congreso y que fueron aprobados aportan bastante en el área de investigación y que se note que todo lo relacionado a data, ventas e ia va evolucionando rapidamente.  
     """)
