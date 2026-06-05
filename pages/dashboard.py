@@ -63,6 +63,7 @@ def load_data():
 df = load_data()
 
 st.title("📊 Análisis bibliométrico — Predicción de ventas con IA")
+st.subheader("Colaboradores: Lia Aguilar,Fernando Conislla, André Rivera, Fatima Raymundo ")
 st.caption("Dataset exportado desde Scopus · Keywords: sales forecasting, artificial intelligence, business intelligence, data mining")
 
 st.markdown("---")
