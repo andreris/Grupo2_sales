@@ -61,5 +61,6 @@ with col2:
     
     **Puntos clave/Insights:**
     * **Tendencia:** Se observa un crecimiento en los últimos años, en especial desde el año 2020 del uso y conocimiento sobre la ia, lo que demuestra que es un área que esta en crecimiento.
-    * **Tecnología:** El aumento del uso de machine learning y la adopción de la ia en las empresas se ve claro, más aún en el año 2025.
+    * **Tecnología :** El aumento del uso de machine learning y la adopción de la ia en las empresas se ve claro, más aún en el año 2025.
+    * **Larga espera :** El tiempo que requeria el podeer recolectar datos, escribir los papers y pasar por los rigurosas revisiones, hicieron que el 2025 se convirtió en el año con mayores publicaciones, esto con todo lo investigado durante el 2023 y 2024 principalmente.
     """)
