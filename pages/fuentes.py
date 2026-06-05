@@ -26,7 +26,7 @@ def load_data():
 df = load_data()
 
 st.page_link("pages/dashboard.py", label="⬅️ Volver al Dashboard Principal", icon="🏠")
-st.title("🏛️ Fuentes científicas más frecuentes")
+st.title("Fuentes científicas más frecuentes")
 st.markdown("---")
 
 col1, col2 = st.columns([2, 1])
@@ -52,7 +52,7 @@ with col1:
     st_echarts(option_fuentes, height="600px")
 
 with col2:
-    st.subheader("💡 Interpretación")
+    st.subheader("Interpretación")
     st.write("""  
 Este gráfico nos muestra la distribucion de las fuentes cientificas es decir muestra en qué revistas científicas, congresos o conferencias académicas se están publicando los artículos. Al observar el grafico podemos concluir:
 

@@ -27,7 +27,7 @@ def load_data():
 df = load_data()
 
 st.page_link("pages/dashboard.py", label="⬅️ Volver al Dashboard Principal", icon="🏠")
-st.title("🏆 Top 10 Artículos Más Citados")
+st.title("Top 10 Artículos Más Citados")
 st.markdown("---")
 
 col1, col2 = st.columns([2, 1])
@@ -52,7 +52,7 @@ with col1:
     st_echarts(option_citas, height="600px")
 
 with col2:
-    st.subheader("💡 Interpretación")
+    st.subheader("Interpretación")
     st.write("""En este gráfico podemos ver cuáles son los artículos de nuestro dataset que más veces han sido citados. Básicamente, nos ayuda a entender qué investigaciones son las más importantes o tomadas como referencia en el tema de predicción de ventas.
 
 **Puntos clave/Insights:**

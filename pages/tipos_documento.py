@@ -26,7 +26,7 @@ def load_data():
 df = load_data()
 
 st.page_link("pages/dashboard.py", label="⬅️ Volver al Dashboard Principal", icon="🏠")
-st.title("📄 Distribución por Tipo de Documento")
+st.title("Distribución por Tipo de Documento")
 st.markdown("---")
 
 col1, col2 = st.columns([2, 1])
@@ -51,7 +51,7 @@ with col1:
     st_echarts(option_tipo, height="500px")
 
 with col2:
-    st.subheader("💡 Interpretación")
+    st.subheader("Interpretación")
     st.write("""
     Este gráfico de torta muestra que tipo de formato eligen los investigadores para publicar sus articulos, nos permite visualizar qué tipos de documentos (artículos, revisiones, ponencias de congresos) son más frecuentes en el dataset.
 

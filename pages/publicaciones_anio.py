@@ -29,7 +29,7 @@ def load_data():
 df = load_data()
 
 st.page_link("pages/dashboard.py", label="⬅️ Volver al Dashboard Principal", icon="🏠")
-st.title("📅 Análisis de Publicaciones por Año")
+st.title("Análisis de Publicaciones por Año")
 st.markdown("---")
 
 col1, col2 = st.columns([2, 1])
@@ -55,7 +55,7 @@ with col1:
     st_echarts(option_anio, height="500px")
 
 with col2:
-    st.subheader("💡 Interpretación")
+    st.subheader("Interpretación")
     st.write("""
     Este gráfico muestra la cantidad de artículos científicos publicados por año relacionados con la predicción de ventas mediante inteligencia artificial, inteligencia de negocios y minería de datos. Permite identificar los años con mayor producción científica sobre el tema.
     
