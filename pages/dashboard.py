@@ -41,7 +41,7 @@ st.markdown("""
 
 @st.cache_data
 def load_data():
-    wb = load_workbook("scopus_g2_ventas.csv", read_only=True)
+    wb = load_workbook("scopus_g2_ventas.xlsx", read_only=True)
     ws = wb.active
     lines = []
     for row in ws.iter_rows(values_only=True):
